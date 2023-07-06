@@ -1,0 +1,15 @@
+{
+  "name": "quran_sharif",
+  "version": "0.0.2",
+  "description": "this npm package provides a comprehensive collection of the Quran in both English and Arabic translations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MohamedAshraf701/npm_quran_sharif"
+  },
+  "author": "zaid.digital",
+  "license": "ISC"
+}
