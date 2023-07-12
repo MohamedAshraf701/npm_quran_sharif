@@ -1,8 +1,24 @@
 {
   "name": "quran_sharif",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "this npm package provides a comprehensive collection of the Quran in both English and Arabic translations.",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "keywords": [
+    "Quran",
+    "quran sharif",
+    "al quran",
+    "npm_quran_sharif",
+    "islamic",
+    "quran",
+    "quranic",
+    "islamic",
+    "arabic",
+    "surah",
+    "ayah",
+    "translation",
+    "utility",
+    "books"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
