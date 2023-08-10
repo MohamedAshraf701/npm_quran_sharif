@@ -1,7 +1,6 @@
 
 # Quran Sharif
 
-[![npm Version](https://img.shields.io/npm/v/quran_sharif.svg)](https://www.npmjs.com/package/quran_sharif)
 ![Node.js](https://img.shields.io/badge/platform-node.js-green)
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-download-url]
