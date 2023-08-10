@@ -3,6 +3,10 @@
 
 [![npm Version](https://img.shields.io/npm/v/quran_sharif.svg)](https://www.npmjs.com/package/quran_sharif)
 ![Node.js](https://img.shields.io/badge/platform-node.js-green)
+[![NPM version][npm-version-image]][npm-url]
+[![NPM downloads][npm-downloads-image]][npm-download-url]
+[![MIT License][license-image]][license-url]
+
 
 A utility package for working with the Quran in JavaScript.
 
@@ -79,3 +83,14 @@ If you have any questions, feel free to reach out:
 
 - Email: ashrafchauhan567@gmail.com
 - GitHub: [@MohamedAshraf701](https://github.com/MohamedAshraf701)
+
+
+
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: LICENSE
+
+[npm-url]: https://npmjs.org/package/quran_sharif
+[npm-version-image]: https://img.shields.io/npm/v/quran_sharif.svg?style=flat
+
+[npm-downloads-image]: https://img.shields.io/npm/dm/quran_sharif.svg?style=flat
+[npm-download-url]: https://npmcharts.com/compare/quran_sharif?minimal=true
